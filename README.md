@@ -1,0 +1,2 @@
+# FunctionConcept
+some learning excises
